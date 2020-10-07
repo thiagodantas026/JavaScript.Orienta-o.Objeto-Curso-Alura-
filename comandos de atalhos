@@ -1,0 +1,6 @@
+atralho de comentarios JavaScript
+
+Ctrl+K Ctrl+C    Add Line Comment    
+Ctrl+K Ctrl+U    Remove Line Comment    
+Ctrl+/           Toggle Line Comment
+Shift+Alt+A      Toggle Block Comment
